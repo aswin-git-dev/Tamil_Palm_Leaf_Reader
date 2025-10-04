@@ -13,7 +13,7 @@ Here’s a step-by-step guide to execute all programs in this project, starting 
 ### 1. Clone the Repository
 ```powershell
 git clone https://github.com/aswin-git-dev/Tamil_Palm_Leaf_Reader.git 
-cd "Ancient Tamil Palm Leaf character recognition using Transformers"
+cd "Tamil_Palm_Leaf_Reader"
 ```
 
 ### 2. Install Python & Create Virtual Environment
